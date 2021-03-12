@@ -1,4 +1,4 @@
-# Design Repository
+# Template Repository
 Template Repository for PCB, Mechanical, Product, UI and Graphic Design related repositories.
 
 1. `.gitignore`: ignores a set of predefined file formats
